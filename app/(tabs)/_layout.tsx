@@ -42,6 +42,8 @@ export default function TabsLayout() {
           height: 64,
           paddingTop: 10
         },
+        headerShown: false,
+
       }}
     >
       {/* صفحه Home */}
